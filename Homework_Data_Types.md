@@ -8,4 +8,11 @@ What is a data type? A data type, specifically in Java, is some form of data sto
 Your assignment this week is to research the different data types in Java. There are a total of eight primitive data types in Java, but we will not cover all eight right away because some can seem very similar and the difference may not immediately be clear to a new programmer. Don't worry, we will cover all eight eventually! This week, I want you to research, understand, and write a few sentences what the following data types mean in Java:
 - Integers (referred to as `int`)
 - Floating Point / Double (referred to as `float` / `double`)
-	- 
+    - Note: `float` and `double` are actually two different data types. They have a very subtle difference. Defining either will be fine. We will talk about their difference later.
+- Boolean
+- String
+
+Please define all data types in a Java context. Try not to use websites talking about other languages. While it may be fine,
+there may be small differences in the definitions between Java and other languages!
+
+Good luck and have fun!
